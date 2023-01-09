@@ -1,3 +1,3 @@
-function help(params) {
-    
-}
+setInterval(function() {
+    window.location.reload();
+ }, 5000);
